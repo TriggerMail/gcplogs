@@ -92,8 +92,8 @@ echo "gcloud-project-id"`
 const invalidServiceAccountKey = `{
   "type": "service_account",
   "project_id": "bigquery-tools",
-  "private_key_id": "55ed102c272e1aa954893d6cefeec82dddba0bf5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCDWEgEeauzMUq+\n8i8MzbMBc2txKsnrlHuTaw+usaWD0wrr8ApuOXyii1q8u3EcvA1KFHI4kX9fzLKw\nVDNc8LhX/yhwd9EyJLuihb7D3URJyNksbf8IsR1/KH0y6VmeaJVR9F/amN6uFy6s\nw8C3IpTgQjzrR7pFXAK0A3MaSSCUxRSioVq5PnXoE67zyR7XC57BaUas6WGVm9RT\ncsgrw4g53cDmUkFcmjgxgEFoFF7B08FBitjc3X8S50k2heCVIC5F+tCQcdPiyfax\nIk/LLUEq3Nw4u99BSD36Deb7h9NUAjVYnLUF+qH0nlClP5EepSUvCJti537C1JfT\nAzXru46HAgMBAAECggEACIJxuAiB/UwWQaTDM5soG9H0hhJ1npOyJezryS+tP4su\ny/ZzVozW7FkG+e9S9r+gRMpqVAvpKrXCZfYulbjq2JipcA/zN8J1faQYpevx/q3K\nlDxUJ6YB+TkQU3oW2lKASh0BENKSqsjJt1u/Yp4U8yqXc87j3JaHfk4y6OMP/1Nl\nrgiHuYmWyHgb/rGaviHUoZf/tVCNv2jngfCCpGWhjmy+xFxD6dzmln3+5nzMM6DY\nfamC0RbCqT1IQDrwCiIVPAgH5gk2I1fhQKZOEiWkP9kLCrLrMxlFvyURGy0gASdN\nj5A3maXZlmuQ7DFvMcwqFku0i+DzBDhMwjCNpdJFUQKBgQC4ihkEvmEhLQFm4aqn\ncqe4c6N5+TS0ymbGuCGeS1wfoBKHIOjhYZcI5HoMVNSfQic0x4PsXAnJ54iLMqNw\nkhcaGyVamN0pB4MHRV80PTsf1k73P3Zz94sKKs82z6cYITCqtZ9cmLZrlDps8L/W\nxwjtaS1WMIIlhmoUXfi0kxJF3QKBgQC2NNtu0PFUH9Nt4sDtVtmqC+VQa9JlK0YA\nDOf6rGptDxqeZGZYA6U4+/ThPXi+JYjZQhNvir2JCSCsE9m9Pd+D8R5MPbGY2yfJ\n4yrEOW8ICdW1eqkHFOUQkudewzJqgs65nLuOk8QT34luRUyEPwy60e1tfz0E/3EW\nLbJeO9i5swKBgCcHpjT3owlmQGanEfXqbQi5BHlWuMwIBua+qPWW0Lwrmd+UmUyZ\n3FzYHewfwPyR/ELQc9l4ueVHH/z4z9KOQ26VEThxHk2ANjlCddlRngCkzfzDImVy\nlKio1zyrfJbA5k8krLjj36kvJ5BE9v4RCJVV6m3RQqV3IVZ/bYubk4DNAoGARq5k\nfS2CoH6kFxmCe89YKpXow/S/rk1GH1jiWKSvuFTGn7EU3omze1KKISImh6Sp3JW8\nUmXAtrsauIYOzlGFNnq/pRW9oi1J1xBPk8Uv5C9kfrzxevTJE0/ZfzI7iYPqy6gY\nPevmgUsS1fr9/sMynfo3n2Vfd2PcK51YdyPCI+8CgYEArAkSydX/3kyXjOOrZtds\nl4bE5QS0wcKoTPsmAlpTITD2/vTEwR73GLdYDyNj0f3r+KlKpnG4kO/UV7CGiAs5\nOtcPEcJnIIFv7tEBYCaHDbAxVPNno7smikDx/AFpvobZQVeULdWu0LjYICjILQ76\nEB+4ReLd/AmOCtOFiFzbsYg=\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "REDACTED",
+  "private_key": "REDACTED",
   "client_email": "example@bigquery-tools.iam.gserviceaccount.com",
   "client_id": "103262392421472942815",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
